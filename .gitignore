@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/laravel
-### AÑADIR ###
+
 ### Laravel ###
 vendor/
 node_modules/
